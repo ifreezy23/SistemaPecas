@@ -1,0 +1,13 @@
+3 Requisitos:
+
+OK - verificar se o peso da peça possui mais de 100g
+	OK - Sim: Pode cadastrar
+	OK - Não: Não pode cadastrar
+
+OK - Verificar número de peças cadastradas é menor que 10
+	OK - Menos de 10: Pode cadastrar
+	OK - 10 ou mais peças: Não podemos cadastrar
+
+Verificar o comprimento do nome da peça
+	Menos de 3 caracteres: Não pode cadastrar
+	3 ou mais caracteres: Podemos cadastrar.
